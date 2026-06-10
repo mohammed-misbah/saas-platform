@@ -1,0 +1,19 @@
+2026-06-10 01:51:43,143 - INFO - Application Started
+2026-06-10 01:52:21,836 - INFO - Application Started
+2026-06-10 01:52:24,021 - INFO - Application Started
+2026-06-10 01:53:48,382 - INFO - Database Connected
+2026-06-10 01:53:48,422 - INFO - Application Started
+2026-06-10 01:54:01,150 - INFO - Database Connected
+2026-06-10 01:54:01,152 - INFO - Application Started
+2026-06-10 01:54:03,100 - INFO - Database Connected
+2026-06-10 01:54:03,106 - INFO - Application Started
+2026-06-10 01:54:24,303 - INFO - Database Connected
+2026-06-10 01:54:24,303 - INFO - Application Started
+2026-06-10 01:54:28,778 - INFO - Database Connected
+2026-06-10 01:54:28,778 - INFO - Application Started
+2026-06-10 01:54:29,877 - INFO - Database Connected
+2026-06-10 01:54:29,885 - INFO - Application Started
+2026-06-10 10:00:38,827 - INFO - Request Received: GET http://127.0.0.1:8000/health
+2026-06-10 10:00:40,847 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-10 10:01:17,067 - INFO - Request Received: GET http://127.0.0.1:8000/logs/app.log
+2026-06-10 10:01:19,083 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
