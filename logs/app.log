@@ -17,3 +17,234 @@
 2026-06-10 10:00:40,847 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
 2026-06-10 10:01:17,067 - INFO - Request Received: GET http://127.0.0.1:8000/logs/app.log
 2026-06-10 10:01:19,083 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 00:48:41,014 - INFO - Database Connected
+2026-06-11 00:48:41,087 - INFO - Application Started
+2026-06-11 00:48:53,258 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 00:48:55,613 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 00:48:57,707 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 00:49:17,908 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 00:50:02,041 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 00:52:46,309 - INFO - Database Connected
+2026-06-11 00:52:46,354 - INFO - Application Started
+2026-06-11 00:52:53,615 - INFO - Database Connected
+2026-06-11 00:52:53,655 - INFO - Application Started
+2026-06-11 00:52:57,205 - INFO - Database Connected
+2026-06-11 00:52:57,255 - INFO - Application Started
+2026-06-11 00:52:59,362 - INFO - Database Connected
+2026-06-11 00:52:59,411 - INFO - Application Started
+2026-06-11 00:53:36,491 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 00:53:36,697 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 00:53:38,868 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 00:53:48,712 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 00:54:06,851 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 00:54:15,290 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 00:54:25,101 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:03:05,227 - INFO - Database Connected
+2026-06-11 22:03:05,814 - INFO - Application Started
+2026-06-11 22:03:24,046 - INFO - Request Received: GET http://127.0.0.1:8000/
+2026-06-11 22:03:32,049 - INFO - Request Received: GET http://127.0.0.1:8000/
+2026-06-11 22:03:40,486 - INFO - Request Received: GET http://127.0.0.1:8000/
+2026-06-11 22:03:40,568 - INFO - Request Received: GET http://127.0.0.1:8000/favicon.ico
+2026-06-11 22:03:42,522 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:03:48,273 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 22:03:48,550 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 22:03:50,298 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:04:23,289 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:11:20,942 - INFO - Database Connected
+2026-06-11 22:11:21,062 - INFO - Application Started
+2026-06-11 22:13:34,427 - INFO - Database Connected
+2026-06-11 22:13:34,509 - INFO - Application Started
+2026-06-11 22:15:53,217 - INFO - Database Connected
+2026-06-11 22:16:08,200 - INFO - Database Connected
+2026-06-11 22:16:10,779 - INFO - Database Connected
+2026-06-11 22:16:13,033 - INFO - Database Connected
+2026-06-11 22:16:44,531 - INFO - Database Connected
+2026-06-11 22:16:57,111 - INFO - Database Connected
+2026-06-11 22:17:00,805 - INFO - Database Connected
+2026-06-11 22:17:04,662 - INFO - Database Connected
+2026-06-11 22:18:30,437 - INFO - Database Connected
+2026-06-11 22:20:30,732 - INFO - Database Connected
+2026-06-11 22:20:36,842 - INFO - Database Connected
+2026-06-11 22:20:41,834 - INFO - Database Connected
+2026-06-11 22:20:41,957 - INFO - Application Started
+2026-06-11 22:20:52,149 - INFO - Database Connected
+2026-06-11 22:20:52,344 - INFO - Application Started
+2026-06-11 22:20:54,879 - INFO - Database Connected
+2026-06-11 22:20:54,979 - INFO - Application Started
+2026-06-11 22:21:00,334 - INFO - Database Connected
+2026-06-11 22:21:00,436 - INFO - Application Started
+2026-06-11 22:22:25,517 - INFO - Database Connected
+2026-06-11 22:22:25,582 - INFO - Application Started
+2026-06-11 22:22:35,249 - INFO - Database Connected
+2026-06-11 22:22:35,357 - INFO - Application Started
+2026-06-11 22:22:48,752 - INFO - Database Connected
+2026-06-11 22:22:48,833 - INFO - Application Started
+2026-06-11 22:22:53,419 - INFO - Database Connected
+2026-06-11 22:22:53,513 - INFO - Application Started
+2026-06-11 22:23:12,627 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 22:23:12,826 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 22:23:14,923 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:23:18,801 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 22:23:52,855 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 22:26:51,768 - INFO - Database Connected
+2026-06-11 22:26:51,890 - INFO - Application Started
+2026-06-11 22:27:41,937 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:28:08,904 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 22:29:05,766 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:29:07,681 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:32:25,084 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 22:32:25,214 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 22:32:27,336 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:32:31,772 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 22:32:31,848 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 22:32:33,583 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:33:13,741 - INFO - Request Received: GET http://127.0.0.1:8000/auth/login
+2026-06-11 22:33:15,753 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:33:19,580 - INFO - Request Received: GET http://127.0.0.1:8000/docs/auth/login
+2026-06-11 22:33:21,610 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:33:23,906 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 22:33:23,964 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 22:33:25,653 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:34:59,871 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:35:07,859 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:36:46,107 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 22:40:32,158 - INFO - Database Connected
+2026-06-11 22:40:32,285 - INFO - Application Started
+2026-06-11 22:40:48,124 - INFO - Database Connected
+2026-06-11 22:40:48,288 - INFO - Application Started
+2026-06-11 22:40:51,221 - INFO - Database Connected
+2026-06-11 22:40:51,313 - INFO - Application Started
+2026-06-11 22:40:53,115 - INFO - Database Connected
+2026-06-11 22:40:53,208 - INFO - Application Started
+2026-06-11 22:40:54,236 - INFO - Database Connected
+2026-06-11 22:40:54,342 - INFO - Application Started
+2026-06-11 22:40:57,249 - INFO - Database Connected
+2026-06-11 22:40:57,354 - INFO - Application Started
+2026-06-11 22:41:18,553 - INFO - Database Connected
+2026-06-11 22:41:20,415 - INFO - Database Connected
+2026-06-11 22:41:20,680 - INFO - Application Started
+2026-06-11 22:41:23,166 - INFO - Database Connected
+2026-06-11 22:41:23,276 - INFO - Application Started
+2026-06-11 22:41:39,104 - INFO - Database Connected
+2026-06-11 22:41:39,228 - INFO - Application Started
+2026-06-11 22:41:57,399 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 22:41:57,528 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 22:41:59,625 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:42:27,071 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:43:27,313 - INFO - Database Connected
+2026-06-11 22:43:27,404 - INFO - Application Started
+2026-06-11 22:43:28,576 - INFO - Database Connected
+2026-06-11 22:43:28,778 - INFO - Application Started
+2026-06-11 22:43:31,888 - INFO - Database Connected
+2026-06-11 22:43:32,032 - INFO - Application Started
+2026-06-11 22:43:32,903 - INFO - Database Connected
+2026-06-11 22:43:33,006 - INFO - Application Started
+2026-06-11 22:47:37,432 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 22:48:43,367 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:51:00,687 - INFO - Database Connected
+2026-06-11 22:51:00,810 - INFO - Application Started
+2026-06-11 22:51:05,362 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 22:51:05,536 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 22:51:07,672 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 22:52:53,085 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:53:13,739 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 22:53:24,846 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 23:03:05,046 - INFO - Database Connected
+2026-06-11 23:03:05,154 - INFO - Application Started
+2026-06-11 23:03:10,554 - INFO - Database Connected
+2026-06-11 23:03:10,705 - INFO - Application Started
+2026-06-11 23:03:36,829 - INFO - Database Connected
+2026-06-11 23:03:41,678 - INFO - Database Connected
+2026-06-11 23:03:43,624 - INFO - Database Connected
+2026-06-11 23:03:44,708 - INFO - Database Connected
+2026-06-11 23:03:48,792 - INFO - Database Connected
+2026-06-11 23:04:26,578 - INFO - Database Connected
+2026-06-11 23:04:26,700 - INFO - Application Started
+2026-06-11 23:04:26,715 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 23:04:26,910 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 23:04:30,223 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 23:04:30,812 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 23:04:30,911 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 23:04:33,068 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 23:04:54,625 - INFO - Database Connected
+2026-06-11 23:04:54,722 - INFO - Application Started
+2026-06-11 23:05:00,822 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 23:05:00,918 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 23:05:02,730 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 23:05:38,621 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 23:06:27,627 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:06:48,789 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-11 23:23:29,671 - INFO - Database Connected
+2026-06-11 23:23:30,524 - INFO - Database Connected
+2026-06-11 23:23:32,865 - INFO - Database Connected
+2026-06-11 23:23:35,149 - INFO - Database Connected
+2026-06-11 23:23:49,330 - INFO - Database Connected
+2026-06-11 23:23:52,221 - INFO - Database Connected
+2026-06-11 23:23:52,351 - INFO - Application Started
+2026-06-11 23:23:55,927 - INFO - Database Connected
+2026-06-11 23:23:56,024 - INFO - Application Started
+2026-06-11 23:24:00,190 - INFO - Database Connected
+2026-06-11 23:24:00,302 - INFO - Application Started
+2026-06-11 23:24:03,467 - INFO - Database Connected
+2026-06-11 23:24:03,569 - INFO - Application Started
+2026-06-11 23:24:04,938 - INFO - Database Connected
+2026-06-11 23:24:05,047 - INFO - Application Started
+2026-06-11 23:24:13,334 - INFO - Database Connected
+2026-06-11 23:24:14,787 - INFO - Database Connected
+2026-06-11 23:24:14,925 - INFO - Application Started
+2026-06-11 23:24:20,844 - INFO - Database Connected
+2026-06-11 23:24:20,957 - INFO - Application Started
+2026-06-11 23:31:36,805 - INFO - Database Connected
+2026-06-11 23:31:38,992 - INFO - Database Connected
+2026-06-11 23:31:40,847 - INFO - Database Connected
+2026-06-11 23:31:46,533 - INFO - Database Connected
+2026-06-11 23:31:46,641 - INFO - Application Started
+2026-06-11 23:31:49,638 - INFO - Database Connected
+2026-06-11 23:31:54,236 - INFO - Database Connected
+2026-06-11 23:32:27,108 - INFO - Database Connected
+2026-06-11 23:32:28,333 - INFO - Database Connected
+2026-06-11 23:32:30,405 - INFO - Database Connected
+2026-06-11 23:32:39,011 - INFO - Database Connected
+2026-06-11 23:32:40,897 - INFO - Database Connected
+2026-06-11 23:32:41,007 - INFO - Application Started
+2026-06-11 23:32:44,830 - INFO - Database Connected
+2026-06-11 23:32:44,926 - INFO - Application Started
+2026-06-11 23:32:47,689 - INFO - Database Connected
+2026-06-11 23:32:47,793 - INFO - Application Started
+2026-06-11 23:34:53,227 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 23:34:53,346 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 23:34:55,805 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 23:35:26,845 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:35:49,680 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:38:02,113 - INFO - Database Connected
+2026-06-11 23:38:02,246 - INFO - Application Started
+2026-06-11 23:38:05,897 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:39:19,141 - INFO - Database Connected
+2026-06-11 23:39:19,264 - INFO - Application Started
+2026-06-11 23:39:23,691 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:52:56,197 - INFO - Database Connected
+2026-06-11 23:53:10,902 - INFO - Database Connected
+2026-06-11 23:53:11,032 - INFO - Application Started
+2026-06-11 23:53:14,726 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-11 23:53:14,896 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-11 23:53:17,211 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-11 23:53:26,227 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:54:06,414 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:54:26,776 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:55:29,725 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:55:40,694 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:56:07,579 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:58:02,238 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:58:21,352 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:58:35,368 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-11 23:58:55,569 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:59:18,418 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:59:34,603 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-11 23:59:46,606 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-12 00:00:10,542 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-12 00:00:32,436 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-12 00:00:49,877 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-12 00:01:00,181 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-12 00:01:21,579 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-12 01:30:31,159 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 01:30:46,982 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
