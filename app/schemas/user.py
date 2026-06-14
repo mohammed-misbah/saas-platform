@@ -9,15 +9,11 @@ class UserCreate(BaseModel):
     role_id: int
 
 
-class UserLogin(BaseModel):
-    email: EmailStr
-    password: str
-
-
 class UserResponse(BaseModel):
     id: int
     email: str
     role_id: int
+    company_id: int
     is_active: bool
     created_at: datetime
 

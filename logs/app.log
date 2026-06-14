@@ -248,3 +248,932 @@
 2026-06-12 00:01:21,579 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
 2026-06-12 01:30:31,159 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
 2026-06-12 01:30:46,982 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 17:37:12,327 - INFO - Database Connected
+2026-06-12 17:37:12,984 - INFO - Application Started
+2026-06-12 17:37:15,065 - INFO - Database Connected
+2026-06-12 17:37:15,137 - INFO - Application Started
+2026-06-12 17:37:18,222 - INFO - Database Connected
+2026-06-12 17:37:18,306 - INFO - Application Started
+2026-06-12 17:37:22,386 - INFO - Database Connected
+2026-06-12 17:37:22,464 - INFO - Application Started
+2026-06-12 17:37:26,791 - INFO - Database Connected
+2026-06-12 17:37:26,868 - INFO - Application Started
+2026-06-12 17:37:32,170 - INFO - Database Connected
+2026-06-12 17:37:32,241 - INFO - Application Started
+2026-06-12 17:37:34,807 - INFO - Database Connected
+2026-06-12 17:37:34,908 - INFO - Application Started
+2026-06-12 17:37:38,006 - INFO - Database Connected
+2026-06-12 17:37:38,090 - INFO - Application Started
+2026-06-12 17:37:44,108 - INFO - Database Connected
+2026-06-12 17:37:44,201 - INFO - Application Started
+2026-06-12 17:37:46,824 - INFO - Database Connected
+2026-06-12 17:37:46,912 - INFO - Application Started
+2026-06-12 17:37:49,612 - INFO - Database Connected
+2026-06-12 17:37:49,688 - INFO - Application Started
+2026-06-12 17:37:52,927 - INFO - Database Connected
+2026-06-12 17:37:53,015 - INFO - Application Started
+2026-06-12 17:38:00,035 - INFO - Database Connected
+2026-06-12 17:38:00,108 - INFO - Application Started
+2026-06-12 17:38:02,778 - INFO - Database Connected
+2026-06-12 17:38:02,858 - INFO - Application Started
+2026-06-12 17:38:05,866 - INFO - Database Connected
+2026-06-12 17:38:05,950 - INFO - Application Started
+2026-06-12 17:38:07,591 - INFO - Database Connected
+2026-06-12 17:38:07,661 - INFO - Application Started
+2026-06-12 17:38:10,766 - INFO - Database Connected
+2026-06-12 17:38:10,854 - INFO - Application Started
+2026-06-12 17:39:34,210 - INFO - Database Connected
+2026-06-12 17:39:34,352 - INFO - Application Started
+2026-06-12 17:39:46,583 - INFO - Database Connected
+2026-06-12 17:39:46,724 - INFO - Application Started
+2026-06-12 17:39:52,842 - INFO - Database Connected
+2026-06-12 17:39:52,938 - INFO - Application Started
+2026-06-12 17:39:54,093 - INFO - Database Connected
+2026-06-12 17:39:54,183 - INFO - Application Started
+2026-06-12 17:40:13,160 - INFO - Database Connected
+2026-06-12 17:40:13,248 - INFO - Application Started
+2026-06-12 17:40:16,439 - INFO - Database Connected
+2026-06-12 17:40:16,513 - INFO - Application Started
+2026-06-12 17:41:32,897 - INFO - Database Connected
+2026-06-12 17:41:32,988 - INFO - Application Started
+2026-06-12 17:41:35,362 - INFO - Database Connected
+2026-06-12 17:41:35,443 - INFO - Application Started
+2026-06-12 17:41:39,141 - INFO - Database Connected
+2026-06-12 17:41:39,216 - INFO - Application Started
+2026-06-12 17:41:41,653 - INFO - Database Connected
+2026-06-12 17:41:41,749 - INFO - Application Started
+2026-06-12 17:41:45,933 - INFO - Database Connected
+2026-06-12 17:41:46,032 - INFO - Application Started
+2026-06-12 17:42:00,737 - INFO - Database Connected
+2026-06-12 17:42:00,810 - INFO - Application Started
+2026-06-12 17:42:07,289 - INFO - Database Connected
+2026-06-12 17:42:07,501 - INFO - Application Started
+2026-06-12 17:42:12,277 - INFO - Database Connected
+2026-06-12 17:42:12,404 - INFO - Application Started
+2026-06-12 17:42:14,438 - INFO - Database Connected
+2026-06-12 17:42:14,533 - INFO - Application Started
+2026-06-12 17:42:19,196 - INFO - Database Connected
+2026-06-12 17:42:19,300 - INFO - Application Started
+2026-06-12 17:42:21,851 - INFO - Database Connected
+2026-06-12 17:42:21,946 - INFO - Application Started
+2026-06-12 17:42:28,031 - INFO - Database Connected
+2026-06-12 17:42:28,102 - INFO - Application Started
+2026-06-12 17:43:25,289 - INFO - Database Connected
+2026-06-12 17:43:27,398 - INFO - Database Connected
+2026-06-12 17:43:27,506 - INFO - Application Started
+2026-06-12 18:05:03,798 - INFO - Database Connected
+2026-06-12 18:05:03,889 - INFO - Application Started
+2026-06-12 18:05:23,461 - INFO - Database Connected
+2026-06-12 18:05:23,572 - INFO - Application Started
+2026-06-12 18:05:31,249 - INFO - Database Connected
+2026-06-12 18:05:32,519 - INFO - Database Connected
+2026-06-12 18:05:36,885 - INFO - Database Connected
+2026-06-12 18:05:36,976 - INFO - Application Started
+2026-06-12 18:05:42,437 - INFO - Database Connected
+2026-06-12 18:05:42,542 - INFO - Application Started
+2026-06-12 18:05:44,178 - INFO - Database Connected
+2026-06-12 18:05:45,690 - INFO - Database Connected
+2026-06-12 18:05:47,577 - INFO - Database Connected
+2026-06-12 18:05:50,088 - INFO - Database Connected
+2026-06-12 18:05:50,198 - INFO - Application Started
+2026-06-12 18:06:05,190 - INFO - Database Connected
+2026-06-12 18:06:05,289 - INFO - Application Started
+2026-06-12 18:06:09,418 - INFO - Database Connected
+2026-06-12 18:06:09,506 - INFO - Application Started
+2026-06-12 18:06:21,745 - INFO - Database Connected
+2026-06-12 18:06:21,819 - INFO - Application Started
+2026-06-12 18:06:24,878 - INFO - Database Connected
+2026-06-12 18:06:24,961 - INFO - Application Started
+2026-06-12 18:06:49,466 - INFO - Database Connected
+2026-06-12 18:06:49,566 - INFO - Application Started
+2026-06-12 18:07:11,802 - INFO - Database Connected
+2026-06-12 18:07:11,891 - INFO - Application Started
+2026-06-12 18:07:28,972 - INFO - Database Connected
+2026-06-12 18:07:29,052 - INFO - Application Started
+2026-06-12 18:07:32,921 - INFO - Database Connected
+2026-06-12 18:07:33,003 - INFO - Application Started
+2026-06-12 18:07:41,801 - INFO - Database Connected
+2026-06-12 18:07:41,919 - INFO - Application Started
+2026-06-12 18:08:12,397 - INFO - Database Connected
+2026-06-12 18:08:12,486 - INFO - Application Started
+2026-06-12 18:08:43,504 - INFO - Database Connected
+2026-06-12 18:08:43,580 - INFO - Application Started
+2026-06-12 18:08:45,735 - INFO - Database Connected
+2026-06-12 18:08:45,818 - INFO - Application Started
+2026-06-12 18:08:57,765 - INFO - Database Connected
+2026-06-12 18:08:57,844 - INFO - Application Started
+2026-06-12 18:09:13,976 - INFO - Database Connected
+2026-06-12 18:09:14,060 - INFO - Application Started
+2026-06-12 18:09:17,061 - INFO - Database Connected
+2026-06-12 18:09:17,140 - INFO - Application Started
+2026-06-12 18:09:20,040 - INFO - Database Connected
+2026-06-12 18:09:20,127 - INFO - Application Started
+2026-06-12 18:09:41,677 - INFO - Database Connected
+2026-06-12 18:09:41,787 - INFO - Application Started
+2026-06-12 18:09:43,576 - INFO - Database Connected
+2026-06-12 18:09:43,685 - INFO - Application Started
+2026-06-12 18:09:49,683 - INFO - Database Connected
+2026-06-12 18:09:49,768 - INFO - Application Started
+2026-06-12 18:09:53,434 - INFO - Database Connected
+2026-06-12 18:09:53,518 - INFO - Application Started
+2026-06-12 18:10:22,170 - INFO - Database Connected
+2026-06-12 18:10:22,273 - INFO - Application Started
+2026-06-12 18:10:55,900 - INFO - Database Connected
+2026-06-12 18:10:55,999 - INFO - Application Started
+2026-06-12 18:10:59,600 - INFO - Database Connected
+2026-06-12 18:10:59,692 - INFO - Application Started
+2026-06-12 18:11:01,668 - INFO - Database Connected
+2026-06-12 18:11:01,742 - INFO - Application Started
+2026-06-12 18:11:04,291 - INFO - Database Connected
+2026-06-12 18:11:04,389 - INFO - Application Started
+2026-06-12 18:11:17,240 - INFO - Database Connected
+2026-06-12 18:11:17,354 - INFO - Application Started
+2026-06-12 18:11:19,123 - INFO - Database Connected
+2026-06-12 18:11:19,220 - INFO - Application Started
+2026-06-12 18:11:21,206 - INFO - Database Connected
+2026-06-12 18:11:21,299 - INFO - Application Started
+2026-06-12 18:11:24,206 - INFO - Database Connected
+2026-06-12 18:11:24,405 - INFO - Application Started
+2026-06-12 18:11:26,680 - INFO - Database Connected
+2026-06-12 18:11:26,763 - INFO - Application Started
+2026-06-12 18:11:32,736 - INFO - Database Connected
+2026-06-12 18:11:32,827 - INFO - Application Started
+2026-06-12 18:11:34,713 - INFO - Database Connected
+2026-06-12 18:11:34,796 - INFO - Application Started
+2026-06-12 18:11:36,422 - INFO - Database Connected
+2026-06-12 18:11:36,531 - INFO - Application Started
+2026-06-12 18:11:38,990 - INFO - Database Connected
+2026-06-12 18:11:39,087 - INFO - Application Started
+2026-06-12 18:12:08,084 - INFO - Database Connected
+2026-06-12 18:12:08,185 - INFO - Application Started
+2026-06-12 18:12:14,967 - INFO - Database Connected
+2026-06-12 18:12:23,780 - INFO - Database Connected
+2026-06-12 18:12:24,711 - INFO - Database Connected
+2026-06-12 18:12:24,835 - INFO - Application Started
+2026-06-12 18:12:49,335 - INFO - Database Connected
+2026-06-12 18:12:49,436 - INFO - Application Started
+2026-06-12 18:13:24,214 - INFO - Database Connected
+2026-06-12 18:13:24,311 - INFO - Application Started
+2026-06-12 18:13:29,510 - INFO - Request Received: GET http://127.0.0.1:8000/
+2026-06-12 18:13:36,434 - INFO - Request Received: GET http://127.0.0.1:8000/
+2026-06-12 18:13:39,064 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 18:13:44,725 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-12 18:13:44,821 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-12 18:13:46,759 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 18:14:21,717 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-12 18:14:32,428 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-12 18:15:00,097 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-12 18:15:13,737 - INFO - Request Received: GET http://127.0.0.1:8000/companies/1
+2026-06-12 18:15:19,173 - INFO - Request Received: GET http://127.0.0.1:8000/companies/3
+2026-06-12 18:16:42,349 - INFO - Request Received: PUT http://127.0.0.1:8000/companies/1
+2026-06-12 18:17:00,556 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-12 18:17:15,686 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/4
+2026-06-12 20:27:15,562 - INFO - Database Connected
+2026-06-12 20:27:21,152 - INFO - Database Connected
+2026-06-12 20:27:21,276 - INFO - Application Started
+2026-06-12 20:27:47,567 - INFO - Database Connected
+2026-06-12 20:27:47,673 - INFO - Application Started
+2026-06-12 20:27:49,051 - INFO - Database Connected
+2026-06-12 20:27:49,140 - INFO - Application Started
+2026-06-12 20:27:50,969 - INFO - Database Connected
+2026-06-12 20:27:51,081 - INFO - Application Started
+2026-06-12 20:30:02,995 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-12 20:30:03,126 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-12 20:30:05,438 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 20:37:20,536 - INFO - Database Connected
+2026-06-12 20:37:20,657 - INFO - Application Started
+2026-06-12 20:37:25,857 - INFO - Database Connected
+2026-06-12 20:37:25,970 - INFO - Application Started
+2026-06-12 20:37:31,814 - INFO - Database Connected
+2026-06-12 20:37:31,915 - INFO - Application Started
+2026-06-12 20:37:34,447 - INFO - Database Connected
+2026-06-12 20:37:34,570 - INFO - Application Started
+2026-06-12 20:37:43,669 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-12 20:37:43,811 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-12 20:37:45,957 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 20:38:03,171 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-12 20:38:16,410 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-12 20:38:26,204 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-12 20:39:19,336 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-12 20:39:19,428 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-12 20:39:21,536 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 20:40:11,388 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 20:44:43,253 - INFO - Database Connected
+2026-06-12 20:44:43,373 - INFO - Application Started
+2026-06-12 20:44:59,645 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-12 20:44:59,847 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-12 20:45:02,228 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 20:45:08,166 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 20:45:52,429 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 20:46:14,482 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 20:47:33,058 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-12 20:51:47,665 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 20:52:12,088 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 20:52:23,329 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 20:52:46,193 - INFO - Request Received: POST http://127.0.0.1:8000/auth/register
+2026-06-12 22:58:03,060 - INFO - Database Connected
+2026-06-12 22:58:04,006 - INFO - Application Started
+2026-06-12 22:58:05,269 - INFO - Database Connected
+2026-06-12 22:58:05,369 - INFO - Application Started
+2026-06-12 22:58:07,656 - INFO - Database Connected
+2026-06-12 22:58:07,758 - INFO - Application Started
+2026-06-12 22:58:11,021 - INFO - Database Connected
+2026-06-12 22:58:11,139 - INFO - Application Started
+2026-06-12 22:58:31,459 - INFO - Database Connected
+2026-06-12 22:58:31,592 - INFO - Application Started
+2026-06-12 22:58:40,087 - INFO - Database Connected
+2026-06-12 22:58:42,651 - INFO - Database Connected
+2026-06-12 22:58:43,726 - INFO - Database Connected
+2026-06-12 22:58:45,530 - INFO - Database Connected
+2026-06-12 22:58:49,338 - INFO - Database Connected
+2026-06-12 22:58:51,228 - INFO - Database Connected
+2026-06-12 22:58:55,308 - INFO - Database Connected
+2026-06-12 22:58:57,650 - INFO - Database Connected
+2026-06-12 22:59:06,646 - INFO - Database Connected
+2026-06-12 22:59:06,780 - INFO - Application Started
+2026-06-12 22:59:10,595 - INFO - Database Connected
+2026-06-12 22:59:10,712 - INFO - Application Started
+2026-06-12 22:59:12,402 - INFO - Database Connected
+2026-06-12 22:59:12,511 - INFO - Application Started
+2026-06-12 22:59:17,511 - INFO - Database Connected
+2026-06-12 22:59:20,013 - INFO - Database Connected
+2026-06-12 22:59:20,118 - INFO - Application Started
+2026-06-12 22:59:24,876 - INFO - Database Connected
+2026-06-12 22:59:24,969 - INFO - Application Started
+2026-06-12 22:59:30,407 - INFO - Database Connected
+2026-06-12 22:59:30,511 - INFO - Application Started
+2026-06-12 22:59:33,201 - INFO - Database Connected
+2026-06-12 22:59:33,305 - INFO - Application Started
+2026-06-12 22:59:36,032 - INFO - Database Connected
+2026-06-12 22:59:36,132 - INFO - Application Started
+2026-06-12 22:59:38,453 - INFO - Database Connected
+2026-06-12 22:59:38,545 - INFO - Application Started
+2026-06-12 22:59:41,978 - INFO - Database Connected
+2026-06-12 22:59:56,575 - INFO - Database Connected
+2026-06-12 22:59:56,711 - INFO - Application Started
+2026-06-12 23:00:10,121 - INFO - Database Connected
+2026-06-12 23:00:10,292 - INFO - Application Started
+2026-06-12 23:00:23,748 - INFO - Database Connected
+2026-06-12 23:00:23,959 - INFO - Application Started
+2026-06-12 23:00:25,381 - INFO - Database Connected
+2026-06-12 23:00:25,474 - INFO - Application Started
+2026-06-12 23:01:27,359 - INFO - Database Connected
+2026-06-12 23:01:27,459 - INFO - Application Started
+2026-06-12 23:01:31,985 - INFO - Database Connected
+2026-06-12 23:01:32,097 - INFO - Application Started
+2026-06-12 23:05:29,967 - INFO - Database Connected
+2026-06-12 23:05:30,135 - INFO - Application Started
+2026-06-12 23:07:37,864 - INFO - Database Connected
+2026-06-12 23:07:37,962 - INFO - Application Started
+2026-06-12 23:07:41,651 - INFO - Database Connected
+2026-06-12 23:07:41,764 - INFO - Application Started
+2026-06-12 23:09:24,149 - INFO - Database Connected
+2026-06-12 23:09:28,026 - INFO - Database Connected
+2026-06-12 23:09:32,988 - INFO - Database Connected
+2026-06-12 23:09:36,660 - INFO - Database Connected
+2026-06-12 23:09:42,867 - INFO - Database Connected
+2026-06-12 23:09:48,641 - INFO - Database Connected
+2026-06-12 23:10:47,628 - INFO - Database Connected
+2026-06-12 23:10:49,926 - INFO - Database Connected
+2026-06-12 23:10:57,165 - INFO - Database Connected
+2026-06-12 23:10:57,315 - INFO - Application Started
+2026-06-12 23:15:31,570 - INFO - Database Connected
+2026-06-12 23:15:31,736 - INFO - Application Started
+2026-06-12 23:15:32,930 - INFO - Database Connected
+2026-06-12 23:15:33,046 - INFO - Application Started
+2026-06-12 23:16:04,512 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-12 23:16:30,164 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-12 23:30:18,793 - INFO - Database Connected
+2026-06-12 23:30:18,939 - INFO - Application Started
+2026-06-12 23:30:21,001 - INFO - Database Connected
+2026-06-12 23:30:21,131 - INFO - Application Started
+2026-06-12 23:30:23,175 - INFO - Database Connected
+2026-06-12 23:30:23,260 - INFO - Application Started
+2026-06-12 23:30:24,585 - INFO - Database Connected
+2026-06-12 23:30:24,685 - INFO - Application Started
+2026-06-12 23:32:10,544 - INFO - Database Connected
+2026-06-12 23:32:10,656 - INFO - Application Started
+2026-06-12 23:32:22,146 - INFO - Database Connected
+2026-06-12 23:32:22,261 - INFO - Application Started
+2026-06-12 23:32:42,141 - INFO - Database Connected
+2026-06-12 23:32:42,307 - INFO - Application Started
+2026-06-12 23:32:47,670 - INFO - Database Connected
+2026-06-12 23:33:06,077 - INFO - Database Connected
+2026-06-12 23:33:06,157 - INFO - Application Started
+2026-06-12 23:33:12,913 - INFO - Database Connected
+2026-06-12 23:33:13,041 - INFO - Application Started
+2026-06-12 23:33:14,143 - INFO - Database Connected
+2026-06-12 23:33:14,244 - INFO - Application Started
+2026-06-12 23:34:38,930 - INFO - Database Connected
+2026-06-12 23:34:39,036 - INFO - Application Started
+2026-06-12 23:34:48,399 - INFO - Database Connected
+2026-06-12 23:34:48,550 - INFO - Application Started
+2026-06-12 23:34:51,108 - INFO - Database Connected
+2026-06-12 23:34:51,356 - INFO - Application Started
+2026-06-12 23:34:53,073 - INFO - Database Connected
+2026-06-12 23:34:53,176 - INFO - Application Started
+2026-06-12 23:34:56,945 - INFO - Database Connected
+2026-06-12 23:34:57,047 - INFO - Application Started
+2026-06-12 23:35:02,066 - INFO - Database Connected
+2026-06-12 23:35:02,193 - INFO - Application Started
+2026-06-12 23:35:04,700 - INFO - Database Connected
+2026-06-12 23:35:04,810 - INFO - Application Started
+2026-06-12 23:35:07,293 - INFO - Database Connected
+2026-06-12 23:35:07,396 - INFO - Application Started
+2026-06-12 23:35:27,819 - INFO - Database Connected
+2026-06-12 23:35:27,957 - INFO - Application Started
+2026-06-12 23:35:30,200 - INFO - Database Connected
+2026-06-12 23:35:30,308 - INFO - Application Started
+2026-06-12 23:35:33,235 - INFO - Database Connected
+2026-06-12 23:35:33,406 - INFO - Application Started
+2026-06-12 23:35:35,480 - INFO - Database Connected
+2026-06-12 23:35:35,641 - INFO - Application Started
+2026-06-12 23:35:52,635 - INFO - Database Connected
+2026-06-12 23:35:52,733 - INFO - Application Started
+2026-06-12 23:35:57,035 - INFO - Database Connected
+2026-06-12 23:35:57,132 - INFO - Application Started
+2026-06-12 23:36:01,057 - INFO - Database Connected
+2026-06-12 23:36:01,230 - INFO - Application Started
+2026-06-12 23:36:07,941 - INFO - Database Connected
+2026-06-12 23:36:12,514 - INFO - Database Connected
+2026-06-12 23:36:12,648 - INFO - Application Started
+2026-06-12 23:36:16,089 - INFO - Database Connected
+2026-06-12 23:36:16,192 - INFO - Application Started
+2026-06-12 23:36:17,688 - INFO - Database Connected
+2026-06-12 23:36:17,800 - INFO - Application Started
+2026-06-12 23:36:20,316 - INFO - Database Connected
+2026-06-12 23:36:21,673 - INFO - Database Connected
+2026-06-12 23:36:21,811 - INFO - Application Started
+2026-06-12 23:36:23,415 - INFO - Database Connected
+2026-06-12 23:36:23,580 - INFO - Application Started
+2026-06-12 23:36:25,473 - INFO - Database Connected
+2026-06-12 23:36:25,582 - INFO - Application Started
+2026-06-12 23:36:27,250 - INFO - Database Connected
+2026-06-12 23:36:28,425 - INFO - Database Connected
+2026-06-12 23:36:33,295 - INFO - Database Connected
+2026-06-12 23:36:34,897 - INFO - Database Connected
+2026-06-12 23:36:35,117 - INFO - Application Started
+2026-06-12 23:36:38,562 - INFO - Database Connected
+2026-06-12 23:36:38,695 - INFO - Application Started
+2026-06-12 23:36:41,381 - INFO - Database Connected
+2026-06-12 23:36:41,493 - INFO - Application Started
+2026-06-12 23:36:44,183 - INFO - Database Connected
+2026-06-12 23:36:44,293 - INFO - Application Started
+2026-06-12 23:37:04,030 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-12 23:37:04,184 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-12 23:37:06,432 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 23:37:43,550 - INFO - Database Connected
+2026-06-12 23:37:43,671 - INFO - Application Started
+2026-06-12 23:37:48,588 - INFO - Database Connected
+2026-06-12 23:37:48,696 - INFO - Application Started
+2026-06-12 23:37:51,258 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-12 23:37:51,383 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-12 23:37:53,151 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-12 23:38:50,328 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:39:08,533 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-12 23:40:03,483 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-12 23:40:23,916 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-12 23:40:29,892 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:43:46,344 - INFO - Database Connected
+2026-06-12 23:43:46,446 - INFO - Application Started
+2026-06-12 23:43:48,732 - INFO - Database Connected
+2026-06-12 23:43:48,894 - INFO - Application Started
+2026-06-12 23:43:52,050 - INFO - Database Connected
+2026-06-12 23:43:52,144 - INFO - Application Started
+2026-06-12 23:43:57,546 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:44:20,199 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:45:17,564 - INFO - Database Connected
+2026-06-12 23:45:20,004 - INFO - Database Connected
+2026-06-12 23:45:21,433 - INFO - Database Connected
+2026-06-12 23:45:21,573 - INFO - Application Started
+2026-06-12 23:45:27,795 - INFO - Database Connected
+2026-06-12 23:45:27,934 - INFO - Application Started
+2026-06-12 23:45:34,436 - INFO - Database Connected
+2026-06-12 23:45:34,528 - INFO - Application Started
+2026-06-12 23:45:44,926 - INFO - Database Connected
+2026-06-12 23:45:45,103 - INFO - Application Started
+2026-06-12 23:45:46,959 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:45:56,518 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:47:39,974 - INFO - Database Connected
+2026-06-12 23:47:40,111 - INFO - Application Started
+2026-06-12 23:47:56,603 - INFO - Database Connected
+2026-06-12 23:47:56,708 - INFO - Application Started
+2026-06-12 23:48:11,005 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:48:25,874 - INFO - Database Connected
+2026-06-12 23:48:28,198 - INFO - Database Connected
+2026-06-12 23:48:32,722 - INFO - Database Connected
+2026-06-12 23:48:32,846 - INFO - Application Started
+2026-06-12 23:48:45,205 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-12 23:48:58,819 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-12 23:50:35,089 - INFO - Request Received: GET http://127.0.0.1:8000/users/13
+2026-06-12 23:50:50,773 - INFO - Request Received: GET http://127.0.0.1:8000/users/list
+2026-06-12 23:52:57,575 - INFO - Request Received: GET http://127.0.0.1:8000/users/12
+2026-06-12 23:53:06,731 - INFO - Request Received: GET http://127.0.0.1:8000/users/19
+2026-06-12 23:53:10,842 - INFO - Request Received: GET http://127.0.0.1:8000/users/12
+2026-06-13 00:13:47,853 - INFO - Request Received: GET http://127.0.0.1:8000/users/list
+2026-06-13 00:13:50,364 - INFO - Request Received: GET http://127.0.0.1:8000/users/list
+2026-06-13 00:14:02,265 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 00:14:27,654 - INFO - Request Received: GET http://127.0.0.1:8000/users/list
+2026-06-13 19:33:13,488 - INFO - Database Connected
+2026-06-13 19:33:14,150 - INFO - Application Started
+2026-06-13 19:33:46,163 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 19:33:46,818 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 19:33:49,146 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 19:34:03,233 - INFO - Request Received: GET http://127.0.0.1:8000/users/list
+2026-06-13 19:35:05,290 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 19:35:20,473 - INFO - Request Received: GET http://127.0.0.1:8000/users/list
+2026-06-13 19:45:49,713 - INFO - Database Connected
+2026-06-13 19:45:49,852 - INFO - Application Started
+2026-06-13 19:45:51,370 - INFO - Database Connected
+2026-06-13 19:45:51,463 - INFO - Application Started
+2026-06-13 19:46:07,744 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 19:46:07,949 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 19:46:10,372 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 19:46:14,715 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-13 19:46:23,683 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 19:46:38,393 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-13 19:48:40,271 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-13 19:48:42,394 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-13 19:49:10,925 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 19:49:32,573 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-13 20:12:29,309 - INFO - Database Connected
+2026-06-13 20:12:29,796 - INFO - Application Started
+2026-06-13 20:13:39,679 - INFO - Database Connected
+2026-06-13 20:13:47,465 - INFO - Database Connected
+2026-06-13 20:13:47,561 - INFO - Application Started
+2026-06-13 20:13:51,703 - INFO - Database Connected
+2026-06-13 20:13:51,812 - INFO - Application Started
+2026-06-13 20:15:01,904 - INFO - Database Connected
+2026-06-13 20:15:02,005 - INFO - Application Started
+2026-06-13 20:15:09,901 - INFO - Database Connected
+2026-06-13 20:15:13,136 - INFO - Database Connected
+2026-06-13 20:15:13,249 - INFO - Application Started
+2026-06-13 20:15:15,649 - INFO - Database Connected
+2026-06-13 20:15:21,416 - INFO - Database Connected
+2026-06-13 20:15:21,516 - INFO - Application Started
+2026-06-13 20:15:31,077 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 20:15:31,199 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 20:15:33,431 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 20:15:37,129 - INFO - Request Received: GET http://127.0.0.1:8000/users/test
+2026-06-13 20:15:51,478 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 20:16:02,674 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 20:16:43,097 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 20:17:04,990 - INFO - Request Received: GET http://127.0.0.1:8000/users/test
+2026-06-13 20:17:07,733 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 20:17:07,865 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 20:17:10,179 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 20:17:16,021 - INFO - Request Received: GET http://127.0.0.1:8000/users/test
+2026-06-13 20:17:25,252 - INFO - Request Received: GET http://127.0.0.1:8000/users/test
+2026-06-13 20:17:42,528 - INFO - Request Received: GET http://127.0.0.1:8000/users/test
+2026-06-13 20:18:35,875 - INFO - Database Connected
+2026-06-13 20:18:35,963 - INFO - Application Started
+2026-06-13 20:18:36,258 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 20:18:36,379 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 20:18:38,096 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 20:18:47,244 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-13 20:54:00,801 - INFO - Database Connected
+2026-06-13 20:54:00,918 - INFO - Application Started
+2026-06-13 20:54:34,246 - INFO - Database Connected
+2026-06-13 20:54:34,382 - INFO - Application Started
+2026-06-13 20:54:36,894 - INFO - Database Connected
+2026-06-13 20:54:36,985 - INFO - Application Started
+2026-06-13 20:54:54,494 - INFO - Database Connected
+2026-06-13 20:54:54,608 - INFO - Application Started
+2026-06-13 20:55:00,733 - INFO - Database Connected
+2026-06-13 20:55:00,817 - INFO - Application Started
+2026-06-13 20:55:14,355 - INFO - Database Connected
+2026-06-13 20:55:14,459 - INFO - Application Started
+2026-06-13 20:55:16,651 - INFO - Database Connected
+2026-06-13 20:55:16,741 - INFO - Application Started
+2026-06-13 20:55:22,375 - INFO - Database Connected
+2026-06-13 20:55:22,457 - INFO - Application Started
+2026-06-13 20:55:27,312 - INFO - Database Connected
+2026-06-13 20:55:27,400 - INFO - Application Started
+2026-06-13 20:55:29,200 - INFO - Database Connected
+2026-06-13 20:55:29,300 - INFO - Application Started
+2026-06-13 20:55:32,802 - INFO - Database Connected
+2026-06-13 20:55:32,903 - INFO - Application Started
+2026-06-13 20:55:42,087 - INFO - Database Connected
+2026-06-13 20:55:42,203 - INFO - Application Started
+2026-06-13 20:56:39,009 - INFO - Database Connected
+2026-06-13 20:56:39,124 - INFO - Application Started
+2026-06-13 21:01:47,251 - INFO - Database Connected
+2026-06-13 21:01:47,326 - INFO - Application Started
+2026-06-13 21:02:00,083 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 21:02:00,249 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 21:02:02,409 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 21:47:34,256 - INFO - Database Connected
+2026-06-13 21:47:34,781 - INFO - Application Started
+2026-06-13 21:48:48,015 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 21:48:48,140 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 21:48:50,414 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 21:49:47,212 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 21:50:02,576 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 21:50:52,046 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 21:51:48,698 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-13 21:57:35,939 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-13 21:59:49,933 - INFO - Database Connected
+2026-06-13 21:59:50,021 - INFO - Application Started
+2026-06-13 21:59:51,996 - INFO - Database Connected
+2026-06-13 21:59:52,170 - INFO - Application Started
+2026-06-13 21:59:56,458 - INFO - Database Connected
+2026-06-13 21:59:56,563 - INFO - Application Started
+2026-06-13 22:00:02,386 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 22:00:02,546 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 22:00:04,715 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 22:00:07,312 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-13 22:00:28,576 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-13 22:00:45,953 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-13 22:00:55,715 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-13 22:04:46,344 - INFO - Database Connected
+2026-06-13 22:04:46,451 - INFO - Application Started
+2026-06-13 22:04:57,916 - INFO - Database Connected
+2026-06-13 22:04:58,015 - INFO - Application Started
+2026-06-13 22:05:40,536 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 22:05:40,691 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 22:05:42,954 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 22:05:46,018 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-13 22:06:00,506 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-13 22:06:15,424 - INFO - Database Connected
+2026-06-13 22:06:15,571 - INFO - Application Started
+2026-06-13 22:06:21,649 - INFO - Database Connected
+2026-06-13 22:06:21,805 - INFO - Application Started
+2026-06-13 22:06:24,341 - INFO - Database Connected
+2026-06-13 22:06:24,455 - INFO - Application Started
+2026-06-13 22:06:29,449 - INFO - Database Connected
+2026-06-13 22:06:29,546 - INFO - Application Started
+2026-06-13 22:06:47,628 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-13 22:06:47,775 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-13 22:06:49,580 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-13 22:07:00,750 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-13 22:19:36,528 - INFO - Database Connected
+2026-06-13 22:19:36,641 - INFO - Application Started
+2026-06-14 09:53:03,877 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 09:53:27,597 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 09:54:16,391 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 09:54:19,383 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-14 09:54:19,520 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-14 09:54:21,788 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-14 09:54:39,879 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-14 09:54:55,443 - INFO - Database Connected
+2026-06-14 09:54:55,540 - INFO - Application Started
+2026-06-14 09:54:55,956 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-14 09:54:56,079 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-14 09:54:57,806 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-14 09:55:03,056 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 09:55:15,014 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 09:58:52,217 - INFO - Database Connected
+2026-06-14 09:58:52,342 - INFO - Application Started
+2026-06-14 09:59:07,922 - INFO - Database Connected
+2026-06-14 09:59:08,091 - INFO - Application Started
+2026-06-14 10:12:26,226 - INFO - Database Connected
+2026-06-14 10:12:28,250 - INFO - Database Connected
+2026-06-14 10:12:28,350 - INFO - Application Started
+2026-06-14 10:12:30,311 - INFO - Database Connected
+2026-06-14 10:12:30,402 - INFO - Application Started
+2026-06-14 10:12:39,776 - INFO - Database Connected
+2026-06-14 10:12:39,879 - INFO - Application Started
+2026-06-14 10:12:46,311 - INFO - Database Connected
+2026-06-14 10:12:46,408 - INFO - Application Started
+2026-06-14 10:22:59,517 - INFO - Database Connected
+2026-06-14 10:23:00,763 - INFO - Database Connected
+2026-06-14 10:23:02,797 - INFO - Database Connected
+2026-06-14 10:23:02,991 - INFO - Application Started
+2026-06-14 10:23:05,119 - INFO - Database Connected
+2026-06-14 10:23:05,237 - INFO - Application Started
+2026-06-14 10:23:06,717 - INFO - Database Connected
+2026-06-14 10:23:06,957 - INFO - Application Started
+2026-06-14 10:23:09,767 - INFO - Database Connected
+2026-06-14 10:23:09,906 - INFO - Application Started
+2026-06-14 10:23:11,577 - INFO - Database Connected
+2026-06-14 10:23:14,335 - INFO - Database Connected
+2026-06-14 10:23:14,654 - INFO - Application Started
+2026-06-14 10:23:18,595 - INFO - Database Connected
+2026-06-14 10:23:24,759 - INFO - Database Connected
+2026-06-14 10:23:24,851 - INFO - Application Started
+2026-06-14 10:23:26,041 - INFO - Database Connected
+2026-06-14 10:23:26,145 - INFO - Application Started
+2026-06-14 10:25:18,748 - INFO - Database Connected
+2026-06-14 10:25:21,981 - INFO - Database Connected
+2026-06-14 10:25:26,057 - INFO - Database Connected
+2026-06-14 10:25:26,168 - INFO - Application Started
+2026-06-14 10:25:31,388 - INFO - Database Connected
+2026-06-14 10:25:31,550 - INFO - Application Started
+2026-06-14 10:25:34,733 - INFO - Database Connected
+2026-06-14 10:25:34,908 - INFO - Application Started
+2026-06-14 10:25:36,896 - INFO - Database Connected
+2026-06-14 10:25:36,997 - INFO - Application Started
+2026-06-14 10:25:40,517 - INFO - Database Connected
+2026-06-14 10:25:40,639 - INFO - Application Started
+2026-06-14 10:25:42,648 - INFO - Database Connected
+2026-06-14 10:25:42,746 - INFO - Application Started
+2026-06-14 10:26:50,985 - INFO - Database Connected
+2026-06-14 10:26:53,063 - INFO - Database Connected
+2026-06-14 10:26:53,180 - INFO - Application Started
+2026-06-14 10:26:58,009 - INFO - Database Connected
+2026-06-14 10:26:58,093 - INFO - Application Started
+2026-06-14 10:27:00,111 - INFO - Database Connected
+2026-06-14 10:27:00,199 - INFO - Application Started
+2026-06-14 10:27:02,068 - INFO - Database Connected
+2026-06-14 10:27:02,171 - INFO - Application Started
+2026-06-14 10:27:03,152 - INFO - Database Connected
+2026-06-14 10:27:03,235 - INFO - Application Started
+2026-06-14 10:27:06,188 - INFO - Database Connected
+2026-06-14 10:27:06,337 - INFO - Application Started
+2026-06-14 10:27:47,759 - INFO - Database Connected
+2026-06-14 10:27:47,881 - INFO - Application Started
+2026-06-14 10:27:50,037 - INFO - Database Connected
+2026-06-14 10:27:50,139 - INFO - Application Started
+2026-06-14 10:27:58,255 - INFO - Database Connected
+2026-06-14 10:27:58,366 - INFO - Application Started
+2026-06-14 10:28:28,885 - INFO - Database Connected
+2026-06-14 10:28:29,002 - INFO - Application Started
+2026-06-14 10:28:44,589 - INFO - Database Connected
+2026-06-14 10:28:44,701 - INFO - Application Started
+2026-06-14 10:30:38,374 - INFO - Database Connected
+2026-06-14 10:30:41,413 - INFO - Database Connected
+2026-06-14 10:30:41,516 - INFO - Application Started
+2026-06-14 10:30:43,547 - INFO - Database Connected
+2026-06-14 10:30:43,643 - INFO - Application Started
+2026-06-14 10:30:45,814 - INFO - Database Connected
+2026-06-14 10:30:45,908 - INFO - Application Started
+2026-06-14 10:32:57,179 - INFO - Database Connected
+2026-06-14 10:32:57,285 - INFO - Application Started
+2026-06-14 10:33:06,830 - INFO - Database Connected
+2026-06-14 10:33:06,938 - INFO - Application Started
+2026-06-14 10:34:30,642 - INFO - Database Connected
+2026-06-14 10:34:30,750 - INFO - Application Started
+2026-06-14 10:34:39,560 - INFO - Database Connected
+2026-06-14 10:34:39,721 - INFO - Application Started
+2026-06-14 10:34:41,861 - INFO - Database Connected
+2026-06-14 10:34:41,967 - INFO - Application Started
+2026-06-14 10:34:43,707 - INFO - Database Connected
+2026-06-14 10:34:43,804 - INFO - Application Started
+2026-06-14 10:34:47,675 - INFO - Database Connected
+2026-06-14 10:34:47,759 - INFO - Application Started
+2026-06-14 10:34:57,126 - INFO - Database Connected
+2026-06-14 10:34:57,225 - INFO - Application Started
+2026-06-14 10:34:59,421 - INFO - Database Connected
+2026-06-14 10:34:59,514 - INFO - Application Started
+2026-06-14 10:35:01,368 - INFO - Database Connected
+2026-06-14 10:35:01,509 - INFO - Application Started
+2026-06-14 10:35:03,831 - INFO - Database Connected
+2026-06-14 10:35:03,914 - INFO - Application Started
+2026-06-14 10:38:27,608 - INFO - Database Connected
+2026-06-14 10:38:27,712 - INFO - Application Started
+2026-06-14 10:38:29,051 - INFO - Database Connected
+2026-06-14 10:38:29,192 - INFO - Application Started
+2026-06-14 10:38:31,341 - INFO - Database Connected
+2026-06-14 10:38:31,434 - INFO - Application Started
+2026-06-14 10:39:09,985 - INFO - Database Connected
+2026-06-14 10:39:19,453 - INFO - Database Connected
+2026-06-14 10:39:23,660 - INFO - Database Connected
+2026-06-14 10:39:25,842 - INFO - Database Connected
+2026-06-14 10:39:29,670 - INFO - Database Connected
+2026-06-14 10:39:32,378 - INFO - Database Connected
+2026-06-14 10:39:39,496 - INFO - Database Connected
+2026-06-14 10:39:57,264 - INFO - Database Connected
+2026-06-14 10:39:57,386 - INFO - Application Started
+2026-06-14 10:41:50,198 - INFO - Database Connected
+2026-06-14 10:41:50,298 - INFO - Application Started
+2026-06-14 10:42:21,587 - INFO - Database Connected
+2026-06-14 10:42:21,736 - INFO - Application Started
+2026-06-14 10:42:23,254 - INFO - Database Connected
+2026-06-14 10:42:23,372 - INFO - Application Started
+2026-06-14 10:42:42,671 - INFO - Database Connected
+2026-06-14 10:42:42,789 - INFO - Application Started
+2026-06-14 10:42:44,024 - INFO - Database Connected
+2026-06-14 10:42:44,260 - INFO - Application Started
+2026-06-14 10:42:46,697 - INFO - Database Connected
+2026-06-14 10:42:46,815 - INFO - Application Started
+2026-06-14 10:42:57,929 - INFO - Database Connected
+2026-06-14 10:42:58,111 - INFO - Application Started
+2026-06-14 10:43:11,670 - INFO - Database Connected
+2026-06-14 10:43:11,831 - INFO - Application Started
+2026-06-14 10:43:46,970 - INFO - Database Connected
+2026-06-14 10:43:47,082 - INFO - Application Started
+2026-06-14 10:44:12,942 - INFO - Database Connected
+2026-06-14 10:44:13,135 - INFO - Application Started
+2026-06-14 10:44:16,078 - INFO - Database Connected
+2026-06-14 10:44:16,178 - INFO - Application Started
+2026-06-14 10:45:50,179 - INFO - Database Connected
+2026-06-14 10:45:50,375 - INFO - Application Started
+2026-06-14 10:45:53,023 - INFO - Database Connected
+2026-06-14 10:45:53,127 - INFO - Application Started
+2026-06-14 10:50:05,292 - INFO - Database Connected
+2026-06-14 10:50:05,419 - INFO - Application Started
+2026-06-14 10:50:09,964 - INFO - Database Connected
+2026-06-14 10:50:10,074 - INFO - Application Started
+2026-06-14 10:50:26,530 - INFO - Database Connected
+2026-06-14 10:50:26,617 - INFO - Application Started
+2026-06-14 11:10:24,016 - INFO - Database Connected
+2026-06-14 11:10:24,773 - INFO - Application Started
+2026-06-14 11:10:41,920 - INFO - Database Connected
+2026-06-14 11:10:42,055 - INFO - Application Started
+2026-06-14 11:10:46,876 - INFO - Database Connected
+2026-06-14 11:10:46,997 - INFO - Application Started
+2026-06-14 11:10:48,592 - INFO - Database Connected
+2026-06-14 11:10:48,714 - INFO - Application Started
+2026-06-14 11:10:56,540 - INFO - Database Connected
+2026-06-14 11:10:56,686 - INFO - Application Started
+2026-06-14 11:11:00,188 - INFO - Database Connected
+2026-06-14 11:11:00,278 - INFO - Application Started
+2026-06-14 11:11:02,807 - INFO - Database Connected
+2026-06-14 11:11:02,926 - INFO - Application Started
+2026-06-14 11:12:12,475 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-14 11:12:12,609 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-14 11:12:14,815 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-14 11:36:31,302 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 11:36:49,764 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-14 11:37:17,428 - INFO - Request Received: GET http://127.0.0.1:8000/companies/1
+2026-06-14 11:37:39,296 - INFO - Request Received: PUT http://127.0.0.1:8000/companies/1
+2026-06-14 11:37:51,173 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/1
+2026-06-14 11:37:58,903 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-14 11:38:10,236 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 11:38:18,163 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-14 11:38:32,366 - INFO - Request Received: GET http://127.0.0.1:8000/users/16
+2026-06-14 11:38:39,183 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-14 11:39:09,455 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-14 11:39:09,590 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-14 11:39:12,064 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-14 11:39:32,482 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 11:39:41,689 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 11:40:02,605 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-14 11:40:12,132 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-14 11:40:21,862 - INFO - Request Received: GET http://127.0.0.1:8000/companies/1
+2026-06-14 11:40:30,274 - INFO - Request Received: PUT http://127.0.0.1:8000/companies/1
+2026-06-14 11:40:40,468 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/1
+2026-06-14 11:59:03,118 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 11:59:21,700 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-14 11:59:29,354 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 12:00:09,177 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-14 12:00:16,461 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-14 12:00:22,056 - INFO - Request Received: POST http://127.0.0.1:8000/users/create
+2026-06-14 12:00:57,592 - INFO - Request Received: GET http://127.0.0.1:8000/users/12
+2026-06-14 12:01:38,421 - INFO - Request Received: GET http://127.0.0.1:8000/users/16
+2026-06-14 12:01:53,242 - INFO - Request Received: GET http://127.0.0.1:8000/users/14
+2026-06-14 12:02:47,021 - INFO - Request Received: GET http://127.0.0.1:8000/users/16
+2026-06-14 12:02:54,704 - INFO - Request Received: GET http://127.0.0.1:8000/users/20
+2026-06-14 12:05:00,860 - INFO - Request Received: GET http://127.0.0.1:8000/users/20
+2026-06-14 12:05:09,528 - INFO - Request Received: GET http://127.0.0.1:8000/users/
+2026-06-14 12:05:51,174 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 12:08:11,485 - INFO - Database Connected
+2026-06-14 12:08:11,640 - INFO - Application Started
+2026-06-14 12:08:14,432 - INFO - Database Connected
+2026-06-14 12:08:14,554 - INFO - Application Started
+2026-06-14 12:08:17,119 - INFO - Database Connected
+2026-06-14 12:08:17,314 - INFO - Application Started
+2026-06-14 12:08:19,156 - INFO - Database Connected
+2026-06-14 12:08:19,275 - INFO - Application Started
+2026-06-14 12:09:41,706 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 12:10:12,593 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-14 12:10:17,689 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 12:10:22,507 - INFO - Request Received: GET http://127.0.0.1:8000/users/tenant-test
+2026-06-14 12:10:48,816 - INFO - Request Received: POST http://127.0.0.1:8000/companies/
+2026-06-14 12:10:58,047 - INFO - Request Received: GET http://127.0.0.1:8000/companies/1
+2026-06-14 12:11:04,544 - INFO - Request Received: GET http://127.0.0.1:8000/companies/6
+2026-06-14 12:11:10,637 - INFO - Request Received: GET http://127.0.0.1:8000/companies/7
+2026-06-14 12:11:51,923 - INFO - Request Received: GET http://127.0.0.1:8000/companies/8
+2026-06-14 12:12:20,291 - INFO - Request Received: PUT http://127.0.0.1:8000/companies/2
+2026-06-14 12:15:08,698 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/5
+2026-06-14 13:11:08,527 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/8
+2026-06-14 13:11:15,184 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 13:11:34,323 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/8
+2026-06-14 13:12:14,882 - INFO - Database Connected
+2026-06-14 13:12:15,234 - INFO - Application Started
+2026-06-14 13:13:25,145 - INFO - Database Connected
+2026-06-14 13:13:25,246 - INFO - Application Started
+2026-06-14 13:13:33,305 - INFO - Database Connected
+2026-06-14 13:13:33,396 - INFO - Application Started
+2026-06-14 13:13:40,187 - INFO - Database Connected
+2026-06-14 13:13:40,290 - INFO - Application Started
+2026-06-14 13:13:48,738 - INFO - Database Connected
+2026-06-14 13:13:48,858 - INFO - Application Started
+2026-06-14 13:13:52,605 - INFO - Database Connected
+2026-06-14 13:13:52,794 - INFO - Application Started
+2026-06-14 13:14:08,703 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/8
+2026-06-14 13:14:13,712 - INFO - Request Received: DELETE http://127.0.0.1:8000/companies/5
+2026-06-14 13:14:38,037 - INFO - Database Connected
+2026-06-14 13:14:38,138 - INFO - Application Started
+2026-06-14 13:14:41,448 - INFO - Database Connected
+2026-06-14 13:14:41,586 - INFO - Application Started
+2026-06-14 13:14:42,856 - INFO - Database Connected
+2026-06-14 13:14:42,936 - INFO - Application Started
+2026-06-14 13:14:45,345 - INFO - Database Connected
+2026-06-14 13:14:45,436 - INFO - Application Started
+2026-06-14 13:14:48,095 - INFO - Database Connected
+2026-06-14 13:14:48,208 - INFO - Application Started
+2026-06-14 13:15:21,455 - INFO - Request Received: GET http://127.0.0.1:8000/users/me
+2026-06-14 13:25:08,617 - INFO - Database Connected
+2026-06-14 13:25:08,744 - INFO - Application Started
+2026-06-14 13:25:13,203 - INFO - Database Connected
+2026-06-14 13:25:13,303 - INFO - Application Started
+2026-06-14 13:25:16,782 - INFO - Database Connected
+2026-06-14 13:25:16,905 - INFO - Application Started
+2026-06-14 13:25:17,899 - INFO - Database Connected
+2026-06-14 13:25:17,996 - INFO - Application Started
+2026-06-14 13:25:22,179 - INFO - Database Connected
+2026-06-14 13:25:22,264 - INFO - Application Started
+2026-06-14 13:25:26,384 - INFO - Database Connected
+2026-06-14 13:25:26,484 - INFO - Application Started
+2026-06-14 13:25:29,003 - INFO - Database Connected
+2026-06-14 13:25:29,113 - INFO - Application Started
+2026-06-14 13:25:30,300 - INFO - Database Connected
+2026-06-14 13:25:30,381 - INFO - Application Started
+2026-06-14 13:25:33,091 - INFO - Database Connected
+2026-06-14 13:25:33,207 - INFO - Application Started
+2026-06-14 13:25:35,446 - INFO - Database Connected
+2026-06-14 13:25:35,540 - INFO - Application Started
+2026-06-14 13:25:37,005 - INFO - Database Connected
+2026-06-14 13:25:37,111 - INFO - Application Started
+2026-06-14 13:40:59,758 - INFO - Database Connected
+2026-06-14 13:40:59,843 - INFO - Application Started
+2026-06-14 13:41:02,967 - INFO - Database Connected
+2026-06-14 13:41:03,047 - INFO - Application Started
+2026-06-14 13:41:05,987 - INFO - Database Connected
+2026-06-14 13:41:06,084 - INFO - Application Started
+2026-06-14 13:41:08,943 - INFO - Database Connected
+2026-06-14 13:41:09,052 - INFO - Application Started
+2026-06-14 13:41:11,763 - INFO - Database Connected
+2026-06-14 13:41:11,842 - INFO - Application Started
+2026-06-14 13:41:14,769 - INFO - Database Connected
+2026-06-14 13:41:14,886 - INFO - Application Started
+2026-06-14 13:41:17,526 - INFO - Database Connected
+2026-06-14 13:41:17,616 - INFO - Application Started
+2026-06-14 13:41:20,007 - INFO - Database Connected
+2026-06-14 13:41:20,238 - INFO - Application Started
+2026-06-14 13:41:22,776 - INFO - Database Connected
+2026-06-14 13:41:22,863 - INFO - Application Started
+2026-06-14 13:41:24,540 - INFO - Database Connected
+2026-06-14 13:41:24,695 - INFO - Application Started
+2026-06-14 13:41:25,758 - INFO - Database Connected
+2026-06-14 13:41:25,851 - INFO - Application Started
+2026-06-14 13:41:27,490 - INFO - Database Connected
+2026-06-14 13:41:27,584 - INFO - Application Started
+2026-06-14 13:41:29,217 - INFO - Database Connected
+2026-06-14 13:41:29,310 - INFO - Application Started
+2026-06-14 13:41:31,349 - INFO - Database Connected
+2026-06-14 13:41:31,442 - INFO - Application Started
+2026-06-14 13:42:17,405 - INFO - Database Connected
+2026-06-14 13:42:24,516 - INFO - Database Connected
+2026-06-14 13:42:24,654 - INFO - Application Started
+2026-06-14 13:42:38,815 - INFO - Database Connected
+2026-06-14 17:34:55,881 - INFO - Database Connected
+2026-06-14 17:34:55,976 - INFO - Application Started
+2026-06-14 17:34:58,647 - INFO - Database Connected
+2026-06-14 17:35:41,517 - INFO - Database Connected
+2026-06-14 17:35:54,143 - INFO - Database Connected
+2026-06-14 17:35:59,417 - INFO - Database Connected
+2026-06-14 17:39:42,606 - INFO - Database Connected
+2026-06-14 17:41:57,918 - INFO - Database Connected
+2026-06-14 17:41:58,019 - INFO - Application Started
+2026-06-14 17:50:24,680 - INFO - Database Connected
+2026-06-14 17:50:24,795 - INFO - Application Started
+2026-06-14 17:50:59,273 - INFO - Database Connected
+2026-06-14 17:51:02,695 - INFO - Database Connected
+2026-06-14 17:51:07,930 - INFO - Database Connected
+2026-06-14 17:51:09,977 - INFO - Database Connected
+2026-06-14 17:51:10,097 - INFO - Application Started
+2026-06-14 17:51:34,965 - INFO - Database Connected
+2026-06-14 17:51:35,058 - INFO - Application Started
+2026-06-14 17:51:37,897 - INFO - Database Connected
+2026-06-14 17:51:38,003 - INFO - Application Started
+2026-06-14 17:51:55,738 - INFO - Database Connected
+2026-06-14 17:51:55,859 - INFO - Application Started
+2026-06-14 17:51:57,705 - INFO - Database Connected
+2026-06-14 17:51:59,280 - INFO - Database Connected
+2026-06-14 17:52:00,947 - INFO - Database Connected
+2026-06-14 17:52:11,339 - INFO - Database Connected
+2026-06-14 17:52:13,732 - INFO - Database Connected
+2026-06-14 17:52:13,871 - INFO - Application Started
+2026-06-14 17:52:50,712 - INFO - Database Connected
+2026-06-14 17:52:50,821 - INFO - Application Started
+2026-06-14 17:52:53,177 - INFO - Database Connected
+2026-06-14 17:52:53,290 - INFO - Application Started
+2026-06-14 17:54:41,628 - INFO - Database Connected
+2026-06-14 17:54:41,779 - INFO - Application Started
+2026-06-14 17:54:45,682 - INFO - Database Connected
+2026-06-14 17:54:45,799 - INFO - Application Started
+2026-06-14 17:55:17,086 - INFO - Database Connected
+2026-06-14 17:55:17,243 - INFO - Application Started
+2026-06-14 17:55:19,681 - INFO - Database Connected
+2026-06-14 17:55:19,793 - INFO - Application Started
+2026-06-14 17:56:06,074 - INFO - Database Connected
+2026-06-14 17:56:06,175 - INFO - Application Started
+2026-06-14 17:56:10,680 - INFO - Database Connected
+2026-06-14 17:56:10,809 - INFO - Application Started
+2026-06-14 18:01:57,749 - INFO - Database Connected
+2026-06-14 18:01:57,845 - INFO - Application Started
+2026-06-14 18:02:55,860 - INFO - Database Connected
+2026-06-14 18:02:55,988 - INFO - Application Started
+2026-06-14 18:02:57,260 - INFO - Database Connected
+2026-06-14 18:02:57,365 - INFO - Application Started
+2026-06-14 18:03:09,225 - INFO - Database Connected
+2026-06-14 18:03:09,371 - INFO - Application Started
+2026-06-14 18:04:53,343 - INFO - Database Connected
+2026-06-14 18:04:53,449 - INFO - Application Started
+2026-06-14 18:04:57,884 - INFO - Request Received: GET http://127.0.0.1:8000/docs
+2026-06-14 18:04:58,037 - INFO - Request Received: GET http://127.0.0.1:8000/openapi.json
+2026-06-14 18:05:00,262 - INFO - Request Received: GET http://127.0.0.1:8000/firebase-messaging-sw.js
+2026-06-14 18:06:20,158 - INFO - Request Received: POST http://127.0.0.1:8000/auth/login
+2026-06-14 18:06:42,128 - INFO - Request Received: DELETE http://127.0.0.1:8000/users/20
