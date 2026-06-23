@@ -3,7 +3,7 @@ from sqlalchemy.orm import Session
 from fastapi import Request
 from app.db.dependencies import get_db, get_current_user
 from app.models.user import User
-from app.schemas.user import UserCreate, UserResponse
+from app.schemas.user import UserCreate, UserResponse, UserUpdate
 from app.core.security import hash_password
 from app.models.role import Role
 from app.audit.audit_service import create_audit_log
@@ -113,13 +113,9 @@ def create_user(user_data: UserCreate, db: Session = Depends(get_db), current_us
     }
 
 
+
 @router.put("/{user_id}")
-def update_user(
-    user_id: int,
-    user_data: UserCreate,
-    db: Session = Depends(get_db),
-    current_user: User = Depends(get_current_user)
-):
+def update_user(user_id: int, user_data: UserUpdate, db: Session = Depends(get_db), current_user: User = Depends(get_current_user)):
 
     role = (
         db.query(Role)
@@ -134,15 +130,12 @@ def update_user(
         )
 
     if role.role_name == "Super Admin":
-
         user = (
             db.query(User)
             .filter(User.id == user_id)
             .first()
         )
-
     else:
-
         user = (
             db.query(User)
             .filter(
@@ -156,6 +149,27 @@ def update_user(
         raise HTTPException(
             status_code=404,
             detail="User not found"
+        )
+
+    new_role = (
+        db.query(Role)
+        .filter(Role.id == user_data.role_id)
+        .first()
+    )
+
+    if not new_role:
+        raise HTTPException(
+            status_code=404,
+            detail="Role not found"
+        )
+
+    if (
+        role.role_name == "Company Admin"
+        and new_role.role_name in ["Super Admin", "Company Admin"]
+    ):
+        raise HTTPException(
+            status_code=403,
+            detail="Company Admin can only assign Member role"
         )
 
     user.email = user_data.email
@@ -196,15 +210,12 @@ def delete_user(
         )
 
     if role.role_name == "Super Admin":
-
         user = (
             db.query(User)
             .filter(User.id == user_id)
             .first()
         )
-
     else:
-
         user = (
             db.query(User)
             .filter(
@@ -218,6 +229,12 @@ def delete_user(
         raise HTTPException(
             status_code=404,
             detail="User not found"
+        )
+
+    if user.id == current_user.id:
+        raise HTTPException(
+            status_code=400,
+            detail="You cannot delete yourself"
         )
 
     create_audit_log(

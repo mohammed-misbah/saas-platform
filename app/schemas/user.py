@@ -9,6 +9,10 @@ class UserCreate(BaseModel):
     role_id: int
 
 
+class UserUpdate(BaseModel):
+    email: EmailStr
+    role_id: int
+
 class UserResponse(BaseModel):
     id: int
     email: str

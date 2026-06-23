@@ -120,3 +120,95 @@ Audit Log:
 
 user_id = Ali
 action = Created user Ahmed
+
+
+
+# Database Documentation — Phase 4
+
+## companies
+
+| Column       | Type    |
+| ------------ | ------- |
+| id           | Integer |
+| company_name | String  |
+| slug         | String  |
+| is_active    | Boolean |
+
+---
+
+## roles
+
+| Column    | Type    |
+| --------- | ------- |
+| id        | Integer |
+| role_name | String  |
+
+Roles:
+
+* Super Admin
+* Company Admin
+* Member
+
+---
+
+## users
+
+| Column        | Type    |
+| ------------- | ------- |
+| id            | Integer |
+| email         | String  |
+| password_hash | String  |
+| role_id       | FK      |
+| company_id    | FK      |
+| is_active     | Boolean |
+
+Relations:
+
+* user belongs to role
+* user belongs to company
+
+---
+
+## projects
+
+| Column       | Type    |
+| ------------ | ------- |
+| id           | Integer |
+| project_name | String  |
+| description  | Text    |
+| status       | String  |
+| company_id   | FK      |
+| created_by   | FK      |
+
+Relations:
+
+* project belongs to company
+* project created by user
+
+---
+
+## project_members
+
+| Column     | Type    |
+| ---------- | ------- |
+| id         | Integer |
+| project_id | FK      |
+| user_id    | FK      |
+
+Relations:
+
+* project linked to many users
+
+---
+
+## audit_logs
+
+| Column     | Type     |
+| ---------- | -------- |
+| id         | Integer  |
+| user_id    | FK       |
+| company_id | FK       |
+| action     | String   |
+| created_at | DateTime |
+
+Stores all important system actions.
