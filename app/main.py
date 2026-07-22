@@ -8,6 +8,7 @@ from app.api.users import router as users_router
 from app.api.companies import router as company_router
 from app.api.projects import router as project_router
 from app.api.assign_projects import router as assign_user_projects
+from app.api.files import router as files_upload
 
 from app.middleware.tenant_middleware import TenantMiddleware
 
@@ -29,6 +30,8 @@ app.add_middleware(TenantMiddleware)
 
 
 app.include_router(auth_router)
+
+app.include_router(files_upload)
 
 app.include_router(project_router)
 
