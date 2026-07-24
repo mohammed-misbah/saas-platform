@@ -11,6 +11,7 @@ from app.schemas.file import (FileResponse, FileUploadResponse)
 from app.storage.s3_service import (upload_file, delete_file, get_file_url)
 from app.audit.audit_service import create_audit_log
 from app.constants.file_constants import ALLOWED_FILE_EXTENSIONS, MAX_FILE_SIZE
+from app.models.project_members import ProjectMember
 import os
 
 
@@ -21,7 +22,8 @@ router = APIRouter(
 
 
 @router.post("/upload", response_model=FileUploadResponse)
-def upload_project_file(project_id: int,file: UploadFile = FastAPIFile(...),db: Session = Depends(get_db),current_user: User = Depends(get_current_user)):
+def upload_project_file(project_id: int,file: UploadFile = FastAPIFile(...),db: Session = Depends(get_db),current_user: User = Depends(get_current_user)
+):
 
     # Get Current User Role
 
@@ -142,7 +144,10 @@ def upload_project_file(project_id: int,file: UploadFile = FastAPIFile(...),db: 
     }
 
 
-@router.get("/",response_model=list[FileResponse])
+@router.get(
+    "/",
+    response_model=list[FileResponse]
+)
 def get_files(
     db: Session = Depends(get_db),
     current_user: User = Depends(get_current_user)
@@ -183,7 +188,7 @@ def get_files(
             .all()
         )
 
-    else:
+    elif role.role_name == "Company Admin":
 
         files = (
             db.query(File)
@@ -193,7 +198,21 @@ def get_files(
             .all()
         )
 
-    # Generate Download URL
+    else:
+
+        files = (
+            db.query(File)
+            .join(
+                ProjectMember,
+                File.project_id == ProjectMember.project_id
+            )
+            .filter(
+                ProjectMember.user_id == current_user.id
+            )
+            .all()
+        )
+
+    # Generate Download URLs
 
     response = []
 
@@ -298,8 +317,15 @@ def get_file(
     )
     
 
-@router.get("/project/{project_id}", response_model=list[FileResponse])
-def get_project_files(project_id: int, db: Session = Depends(get_db), current_user: User = Depends(get_current_user)):
+@router.get(
+    "/project/{project_id}",
+    response_model=list[FileResponse]
+)
+def get_project_files(
+    project_id: int,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user)
+):
 
     # Get Current User Role
 
@@ -314,7 +340,6 @@ def get_project_files(project_id: int, db: Session = Depends(get_db), current_us
             status_code=404,
             detail="Role not found"
         )
-
 
     # Permission Check
 
@@ -355,11 +380,32 @@ def get_project_files(project_id: int, db: Session = Depends(get_db), current_us
             detail="Project not found or access denied."
         )
 
+    # Member Assignment Check
+
+    if role.role_name == "Member":
+
+        assigned = (
+            db.query(ProjectMember)
+            .filter(
+                ProjectMember.project_id == project_id,
+                ProjectMember.user_id == current_user.id
+            )
+            .first()
+        )
+
+        if not assigned:
+            raise HTTPException(
+                status_code=403,
+                detail="You are not assigned to this project."
+            )
+
     # Get Files
 
     files = (
         db.query(File)
-        .filter(File.project_id == project_id)
+        .filter(
+            File.project_id == project_id
+        )
         .all()
     )
 
