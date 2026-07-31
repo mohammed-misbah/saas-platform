@@ -212,3 +212,66 @@ Relations:
 | created_at | DateTime |
 
 Stores all important system actions.
+
+
+# ==========================================
+# Phase 5 - File Storage
+# ==========================================
+
+## Table : files
+
+| Column | Type | Description |
+|---------|------|-------------|
+| id | Integer | Primary Key |
+| company_id | FK | Company Owner |
+| project_id | FK | Project Owner |
+| uploaded_by | FK | Uploaded User |
+| file_name | String | Original File Name |
+| file_url | String | AWS S3 Object Key |
+| file_size | Integer | File Size |
+| content_type | String | MIME Type |
+| created_at | DateTime | Upload Time |
+
+---
+
+## Relationships
+
+Company
+
+↓
+
+Projects
+
+↓
+
+Files
+
+Each file belongs to exactly one project.
+
+Each project belongs to exactly one company.
+
+---
+
+## Storage
+
+The database stores the S3 object key only.
+
+Example
+
+company-2/project-5/3ad18cb2_invoice.pdf
+
+The download URL is generated dynamically using AWS pre-signed URLs.
+
+---
+
+## Audit Events
+
+Every important file action is stored inside
+
+audit_logs
+
+Events
+
+- Uploaded file
+- Downloaded file
+- Deleted file

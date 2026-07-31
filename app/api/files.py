@@ -302,7 +302,14 @@ def get_file(
 
     download_url = get_file_url(file.file_url)
 
-    # Return Response
+    # Audit Log
+
+    create_audit_log(
+        db=db,
+        user_id=current_user.id,
+        company_id=file.company_id,
+        action=f"Downloaded file {file.file_name}"
+    )
 
     return FileResponse(
         id=file.id,
@@ -553,35 +560,33 @@ def delete_uploaded_file(
 
     # Member Ownership Check
 
-    if (
-        role.role_name == "Member"
-        and db_file.uploaded_by != current_user.id
-    ):
+    if (role.role_name == "Member" and db_file.uploaded_by != current_user.id):
         raise HTTPException(
             status_code=403,
             detail="You can only delete files uploaded by you."
         )
 
+    # Store values before deleting the database record
+
+    company_id = db_file.company_id
+    file_name = db_file.file_name
+
     # Delete File From AWS S3
 
-    delete_file(
-        db_file.file_url
-    )
-
-    # Audit Log
-
-    create_audit_log(
-        db=db,
-        user_id=current_user.id,
-        company_id=db_file.company_id,
-        action=f"Deleted file {db_file.file_name}"
-    )
+    delete_file(db_file.file_url)
 
     # Delete Database Record
 
     db.delete(db_file)
     db.commit()
 
-    return {
-        "message": "File deleted successfully"
-    }
+    # Audit Log
+
+    create_audit_log(
+        db=db,
+        user_id=current_user.id,
+        company_id=company_id,
+        action=f"Deleted file {file_name}"
+    )
+
+    return {"message": "File deleted successfully"}

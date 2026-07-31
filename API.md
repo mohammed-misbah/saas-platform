@@ -406,3 +406,127 @@ Access:
 * Super Admin
 * Company Admin
 
+
+# ==========================================
+# Phase 5 - File Management APIs
+# ==========================================
+
+## Upload File
+
+**Endpoint**
+
+POST /files/upload?project_id={project_id}
+
+**Description**
+
+Uploads a file to the selected project.
+
+**Permissions**
+
+- Super Admin
+- Company Admin
+- Member
+
+**Validations**
+
+- User must be authenticated.
+- Project must exist.
+- User must have access to the project.
+- Archived projects cannot receive uploads.
+- File type must be allowed.
+- File size must not exceed 10 MB.
+
+---
+
+## List Files
+
+**Endpoint**
+
+GET /files
+
+**Description**
+
+Returns all accessible files.
+
+### Super Admin
+
+Returns files from every company.
+
+### Company Admin
+
+Returns files only from their company.
+
+### Member
+
+Returns files only from projects assigned to them.
+
+---
+
+## Get File
+
+**Endpoint**
+
+GET /files/{file_id}
+
+**Description**
+
+Returns a temporary AWS S3 download URL.
+
+Audit Log:
+
+Downloaded file <filename>
+
+---
+
+## List Files by Project
+
+**Endpoint**
+
+GET /files/project/{project_id}
+
+Returns every file belonging to one project.
+
+---
+
+## List Files by Company
+
+**Endpoint**
+
+GET /files/company/{company_id}
+
+Only Super Admin can access this endpoint.
+
+---
+
+## Delete File
+
+**Endpoint**
+
+DELETE /files/{file_id}
+
+Deletes
+
+- AWS S3 Object
+- Database Record
+
+Audit Log
+
+Deleted file <filename>
+
+---
+
+## Supported File Types
+
+- pdf
+- doc
+- docx
+- xls
+- xlsx
+- jpg
+- jpeg
+- png
+- txt
+
+Maximum Upload Size
+
+10 MB

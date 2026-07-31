@@ -189,3 +189,209 @@ Super Admin → Allowed
 Company Admin → Denied
 
 Member → Denied
+
+
+# ==========================================
+# Phase 5 - File Management Architecture
+# ==========================================
+
+## File Upload Flow
+
+User
+
+↓
+
+Authentication
+
+↓
+
+Role Validation
+
+↓
+
+Tenant Validation
+
+↓
+
+Project Validation
+
+↓
+
+Archived Project Validation
+
+↓
+
+File Extension Validation
+
+↓
+
+File Size Validation
+
+↓
+
+Upload to AWS S3
+
+↓
+
+Store Metadata in Database
+
+↓
+
+Audit Log
+
+↓
+
+Return Response
+
+---
+
+## File Download Flow
+
+User
+
+↓
+
+Authentication
+
+↓
+
+Permission Validation
+
+↓
+
+Tenant Validation
+
+↓
+
+Generate AWS Pre-Signed URL
+
+↓
+
+Audit Log
+
+↓
+
+Return URL
+
+---
+
+## File Delete Flow
+
+User
+
+↓
+
+Authentication
+
+↓
+
+Permission Validation
+
+↓
+
+Tenant Validation
+
+↓
+
+Member Ownership Validation
+
+↓
+
+Delete Object from AWS S3
+
+↓
+
+Delete Database Record
+
+↓
+
+Audit Log
+
+↓
+
+Return Response
+
+---
+
+# Storage Rules
+
+Files are stored using
+
+company-{company_id}/project-{project_id}/{uuid}_{filename}
+
+Example
+
+company-5/project-12/e12ac9fd_contract.pdf
+
+Benefits
+
+- Unique filenames
+- No duplicate uploads
+- Company isolation
+- Project separation
+- Easy storage management
+
+---
+
+# Tenant Isolation
+
+Company A
+
+×
+
+Cannot access Company B files
+
+×
+
+Cannot download Company B files
+
+×
+
+Cannot delete Company B files
+
+Company B
+
+×
+
+Cannot access Company A files
+
+---
+
+# Permission Matrix
+
+| Feature | Super Admin | Company Admin | Member |
+|----------|-------------|---------------|--------|
+| Upload File | ✅ | ✅ | ✅ |
+| View Files | ✅ | ✅ | Assigned Projects Only |
+| Download File | ✅ | ✅ | Assigned Projects Only |
+| Delete File | ✅ | ✅ | Own Uploaded Files Only |
+| View Company Files | ✅ | Own Company | ❌ |
+| View Other Company Files | ✅ | ❌ | ❌ |
+
+---
+
+# File Validation Rules
+
+Maximum Size
+
+10 MB
+
+Allowed Extensions
+
+- pdf
+- doc
+- docx
+- xls
+- xlsx
+- jpg
+- jpeg
+- png
+- txt
+
+Blocked Examples
+
+- exe
+- bat
+- dll
+- sh
+- cmd
